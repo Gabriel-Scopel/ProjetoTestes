@@ -69,6 +69,6 @@ bookwise/
 ├── bookwise_data.txt        # Dados criptografados (gerado automaticamente)
 ├── bookwise_key.key         # Chave de criptografia (gerado automaticamente)
 ├── README.md
-└── requirements.txt
+
 ```
 
